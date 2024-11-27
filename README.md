@@ -1,4 +1,4 @@
-#Deep-Learning-Algorithms-on-EMNIST-handwritten-character-dataset
+# Deep-Learning-Algorithms-on-EMNIST-handwritten-character-dataset
 
 This code implements three deep learning models—Convolutional Neural Network (CNN), Long 
 Short-Term Memory (LSTM), and Multilayer Perceptron (MLP)—to classify handwritten 
